@@ -1,0 +1,2 @@
+Sitemap: https://www.kalenderdata.nl/sitemap.xml
+Sitemap: https://www.kalenderdata.nl/sitemap_images.xml

@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;@layer base{.banner_links{@apply text-gray-800 dark:text-gray-100 text-sm px-4 py-2 rounded-xl font-semibold grid md:grid-cols-4 md:place-items-center gap-y-4}.cm_date{@apply flex items-center justify-center rounded-full}.cm_week{@apply italic text-sm md:text-base text-gray-600 dark:text-gray-100 font-light}}
