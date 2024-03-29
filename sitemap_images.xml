@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 	<url>
+		<loc>https://www.kalenderdata.nl/kalender/2020/</loc>
+		<image:image>
+			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2020.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2020-zoom.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.kalenderdata.nl/kalender/2021/</loc>
+		<image:image>
+			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2021.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2021-zoom.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.kalenderdata.nl/kalender/2022/</loc>
+		<image:image>
+			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2022.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2022-zoom.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://www.kalenderdata.nl/kalender/2023/</loc>
 		<image:image>
 			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2023.webp</image:loc>
