@@ -99,4 +99,49 @@
 			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2030-zoom.webp</image:loc>
 		</image:image>
 	</url>
+	<url>
+		<loc>https://www.kalenderdata.nl/kalender/2031/</loc>
+		<image:image>
+			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2031.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2031-zoom.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.kalenderdata.nl/kalender/2032/</loc>
+		<image:image>
+			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2032.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2032-zoom.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.kalenderdata.nl/kalender/2033/</loc>
+		<image:image>
+			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2033.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2033-zoom.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.kalenderdata.nl/kalender/2034/</loc>
+		<image:image>
+			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2034.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2034-zoom.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.kalenderdata.nl/kalender/2035/</loc>
+		<image:image>
+			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2035.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.kalenderdata.nl/static/images/webp/kalender-2035-zoom.webp</image:loc>
+		</image:image>
+	</url>
 </urlset>
